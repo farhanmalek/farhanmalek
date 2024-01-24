@@ -50,7 +50,7 @@ Exploring the exciting intersection of technology and innovation!
 
 ## Get in Touch!
 
-If you believe there are projects I can contribute to, I’d love to hear from you. Connect with me on [LinkedIn](https://www.linkedin.com/in/your-linkedin-profile) and let's make things happen!
+If you believe there are projects I can contribute to, I’d love to hear from you. Connect with me on [LinkedIn](https://www.linkedin.com/in/farhan-malek-13b72424a/) and let's make things happen!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/farhan-malek-13b72424a/)
 
