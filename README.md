@@ -1,4 +1,4 @@
-# Hey there! 👋 I'm Farhan, a 24-year-old Civil Engineer turned Developer.
+# Hey there! 👋 I'm Farhan, a 25-year-old Civil Engineer turned Developer.
 
 Thanks for stopping by my page! From building bridges to crafting code, I've transitioned my passion for construction into the realm of software development.
 
@@ -32,7 +32,7 @@ Exploring the exciting intersection of technology and innovation!
 - Node.js, Express.js
 - Python (Flask)
 
-### Experience with C
+### Experience with C, Flutter and Dart
 
 ### Databases
 
@@ -46,7 +46,7 @@ Exploring the exciting intersection of technology and innovation!
 
 ### Currently Learning
 
-- Flutter and Dart
+- C#
 
 ## Get in Touch!
 
