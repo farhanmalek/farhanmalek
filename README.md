@@ -26,6 +26,7 @@ Exploring the exciting intersection of technology and innovation!
 
 - HTML, CSS, JavaScript, TypeScript
 - React
+- Next JS
 
 ### Back End
 
