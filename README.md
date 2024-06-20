@@ -14,7 +14,8 @@ Thanks for stopping by my page! From building bridges to crafting code, I've tra
 - 🎓 Bachelors of Engineering Hons - University of Auckland
 - 🏗️ 2.5 years experience as an Engineer on projects ranging from $100m-$1.5B.
 - 🚀 Level 4-6 Certificates in Technology Product Development and Applied Technology Product Solutions.
-- 💻 Currently Intern @ Datacom
+- 💻 Former Intern @ Datacom
+- Currently Junior Software Developer @ Moustache Republic
 
 ## What's Next?
 
@@ -31,13 +32,13 @@ Exploring the exciting intersection of technology and innovation!
 ### Back End
 
 - Node.js, Express.js
-- Python (Flask)
+- #C, ASP .NETCore
 
-### Experience with C, Flutter and Dart
+### Experience with C#, Flutter and Dart
 
 ### Databases
 
-- MySQL, MongoDB
+- MySQL, MongoDB, MSSQL Server
 
 ### DevOps & Tools
 
@@ -47,7 +48,7 @@ Exploring the exciting intersection of technology and innovation!
 
 ### Currently Learning
 
-- C#
+- C#, Shopify Liquid and BigCommerce StencilCLI
 
 ## Get in Touch!
 
