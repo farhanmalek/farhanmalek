@@ -1,4 +1,4 @@
-# Hey there! 👋 I'm Farhan, a 25-year-old Civil Engineer turned Developer.
+# Hey there! 👋 I'm Farhan, a 25-year-old Software Developer.
 
 Thanks for stopping by my page! From building bridges to crafting code, I've transitioned my passion for construction into the realm of software development.
 
@@ -21,7 +21,7 @@ Thanks for stopping by my page! From building bridges to crafting code, I've tra
 
 Exploring the exciting intersection of technology and innovation!
 
-## Tech Stack
+## heres what I have dabbled with!
 
 ### Front End
 
@@ -33,12 +33,13 @@ Exploring the exciting intersection of technology and innovation!
 
 - Node.js, Express.js
 - #C, ASP .NETCore
+- Python (Flask)
 
 ### Experience with C#, Flutter and Dart
 
 ### Databases
 
-- MySQL, MongoDB, MSSQL Server
+- MySQL, MongoDB, MSSQL Server, DynamoDB/PynamoDb
 
 ### DevOps & Tools
 
@@ -48,7 +49,7 @@ Exploring the exciting intersection of technology and innovation!
 
 ### Currently Learning
 
-- C#, Shopify Liquid and BigCommerce StencilCLI
+- Shopify Liquid, BigCommerce StencilCLI and Python 
 
 ## Get in Touch!
 
