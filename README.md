@@ -1,27 +1,10 @@
-# Hey there! 👋 I'm Farhan, a 25-year-old Software Developer.
+# Hey there! 👋 I'm Farhan, a 27-year-old Software Developer.
 
-Thanks for stopping by my page! From building bridges to crafting code, I've transitioned my passion for construction into the realm of software development.
 
-## About Me
-
-- 💼 Former Civil Engineer, now on a journey in the world of codebases.
 - ⛳ Avid Golfer: When I'm not coding, you'll find me on a fairway (or the next one over!).
 - 🤔 A critical thinker, team player, and people person.
 - 🌟 I enjoy challenges, embrace change, and constantly seek new opportunities to learn and grow.
 
-## My Journey
-
-- 🎓 Bachelors of Engineering Hons - University of Auckland
-- 🏗️ 2.5 years experience as an Engineer on projects ranging from $100m-$1.5B.
-- 🚀 Level 4-6 Certificates in Technology Product Development and Applied Technology Product Solutions.
-- 💻 Former Intern @ Datacom
-- Currently Junior Software Developer @ Moustache Republic
-
-## What's Next?
-
-Exploring the exciting intersection of technology and innovation!
-
-## heres what I have dabbled with!
 
 ### Front End
 
@@ -32,10 +15,8 @@ Exploring the exciting intersection of technology and innovation!
 ### Back End
 
 - Node.js, Express.js
-- #C, ASP .NETCore
-- Python (Flask)
+- Python (Flask, FASTAPI)
 
-### Experience with C#, Flutter and Dart
 
 ### Databases
 
@@ -45,11 +26,8 @@ Exploring the exciting intersection of technology and innovation!
 
 - Git (Version Control)
 - CI/CD, Docker, Github Actions
-- Microsoft Azure
+- AWS
 
-### Currently Learning
-
-- Shopify Liquid, BigCommerce StencilCLI and Python 
 
 ## Get in Touch!
 
